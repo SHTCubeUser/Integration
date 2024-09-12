@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SHT_BJ_AS", "SHT_BJ_AS.dwproj", "{F332B3E7-854F-4E64-B95F-1C0EF138C72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F332B3E7-854F-4E64-B95F-1C0EF138C72F}.Development|Default.ActiveCfg = Development
+		{F332B3E7-854F-4E64-B95F-1C0EF138C72F}.Development|Default.Build.0 = Development
+		{F332B3E7-854F-4E64-B95F-1C0EF138C72F}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108DC89F-229B-48B3-9263-548D1A4814E3}
+	EndGlobalSection
+EndGlobal
